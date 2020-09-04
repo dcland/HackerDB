@@ -41,3 +41,10 @@
    * https://www.coursera.org/learn/dsp - Full DSP course
    * Read about GPS (Kaplan, ICD, …)
    * Download https://sourceforge.net/projects/gnss-sdr/files/data/2013_04_04_GNSS_SIGNAL_at_CTTC_SPAIN.tar.gz 
+
+## Books
+
+- Linux Kernel developmant 
+   * [Linux Device Driver] - https://bootlin.com/doc/books/ldd3.pdf
+   * [Understanding LINUX NETWORK INTERNALS] -  https://doc.lagout.org/operating%20system%20/linux/Understanding%20Linux%20Network%20Internals.pdf
+   * [Understanding linux kernel] - https://doc.lagout.org/operating%20system%20/linux/Understanding%20Linux%20Kernel.pdf
