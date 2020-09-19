@@ -1,6 +1,10 @@
 # HackerDB
 
 ## Research
+- Vulnerabilites articles 
+	* [Format_string] - https://www.cgsecurity.org/Articles/SecProg/Art4/
+
+
 - Cryptography 
     * https://cryptopals.com/ - Very practical challenges
     * https://mrajacse.files.wordpress.com/2012/01/applied-cryptography-2nd-ed-b-schneier.pdf
