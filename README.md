@@ -2,7 +2,7 @@
 
 ## Research
 - Vulnerabilites articles 
-	* [Format_string] - https://www.cgsecurity.org/Articles/SecProg/Art4/
+    * [Format_string] - (https://www.cgsecurity.org/Articles/SecProg/Art4/)
 
 
 - Cryptography 
