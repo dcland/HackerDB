@@ -1,8 +1,9 @@
 # HackerDB
 
 ## Research
-- Vulnerabilites articles 
+- Vulnerabilites articles and tranings
     * [Format_string](https://www.cgsecurity.org/Articles/SecProg/Art4/)
+    * [Binary Exploitations](https://github.com/RPISEC/MBE)
 
 
 - Cryptography 
