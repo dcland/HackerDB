@@ -49,6 +49,7 @@
 ## 📚 Books
 - **[Linux Device Drivers](https://bootlin.com/doc/books/ldd3.pdf)**
 - **[Understanding Linux Kernel](https://doc.lagout.org/operating%20system%20/linux/Understanding%20Linux%20Kernel.pdf)**
+- **[Linux Insides](https://github.com/0xAX/linux-insides)** – One of my favorite places to start learning how the Linux Kernel Works
 
 ---
 
