@@ -1,5 +1,8 @@
 # HackerDB
 
+## Unknown OSINT Tools
+    * [Search Engine] (https://mmnt.ru/int)
+    * [Paralleling Search] (etools.ch)
 ## Research
 - Vulnerabilites articles and tranings
     * [Format_string](https://www.cgsecurity.org/Articles/SecProg/Art4/)
