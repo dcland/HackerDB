@@ -1,57 +1,64 @@
-# HackerDB
+# 🔥 HackerDB - A Curated List of Hacking & Reverse Engineering Resources
 
-## Unknown OSINT Tools
-    * [Search Engine] (https://mmnt.ru/int)
-    * [Paralleling Search] (etools.ch)
-## Research
-- Vulnerabilites articles and tranings
-    * [Format_string](https://www.cgsecurity.org/Articles/SecProg/Art4/)
-    * [Binary Exploitations](https://github.com/RPISEC/MBE)
+![HackerDB](https://img.shields.io/badge/Hacking-Resources-blue?style=flat-square) ![OSINT](https://img.shields.io/badge/OSINT-Tools-red?style=flat-square) ![Linux](https://img.shields.io/badge/Linux-Kernel%20Exploitation-green?style=flat-square)
 
+> 📌 **A collection of tools, write-ups, and training materials for ethical hackers, reverse engineers, and security researchers.**  
+> **Always learning, always hacking.** 🛠️
 
-- Cryptography 
-    * [practical challenges](https://cryptopals.com/)
-    * [applied-cryptography](https://mrajacse.files.wordpress.com/2012/01/applied-cryptography-2nd-ed-b-schneier.pdf)
+---
 
-- Embedded RE and Vulnerability Research 
-    * [reverse challenges](https://microcorruption.com/login)
+## 📖 Table of Contents
+- [🔍 OSINT Tools](#-osint-tools)
+- [📖 Research](#-research)
+  - [🔥 Vulnerabilities & Exploitation](#-vulnerabilities--exploitation)
+  - [🔐 Cryptography](#-cryptography)
+  - [🐧 Linux Reverse Engineering](#-linux-reverse-engineering)
+- [🛠️ Hardware](#️-hardware)
+- [📚 Books](#-books)
+- [🚀 Contribute](#-contribute)
+- [📜 License](#-license)
 
-- Linux RE and Vulnerability Research 
-    * [Easy](https://exploit-exercises.lains.space/nebula/)
-    * [Medium](https://exploit-exercises.lains.space/protostar/)
-    * [hard](https://exploit-exercises.lains.space/fusion/)
+---
 
-- Linux kernel exploitation
-    * [linux kernel exploitation](https://blog.lexfo.fr/cve-2017-11176-linux-kernel-exploitation-part1.html)
+## 🔍 OSINT Tools
+- **[Search Engine](https://mmnt.ru/int)** – Alternative file indexing search engine
+- **[Paralleling Search](https://etools.ch)** – Aggregated search across multiple engines
 
-- Ghidra 
-    * [Ghidra - open source disassembler](https://www.shogunlab.com/blog/2019/04/12/here-be-dragons-ghidra-0.html)
+## 📖 Research
+### 🔥 Vulnerabilities & Exploitation
+- **[Format String Exploitation](https://www.cgsecurity.org/Articles/SecProg/Art4/)**  
+- **[Binary Exploitation - RPISEC MBE](https://github.com/RPISEC/MBE)**
 
-- Microarchitecture and Vulnerabilitie
-    * Read about SGX, uCode, Hyper Threading
-    * Read about Spectre, Meltdown, ZombieLoad, LVI, Foreshadow
-    * [sgx-tutorial](https://github.com/jovanbulck/sgx-tutorial-space18)
+### 🔐 Cryptography
+- **[Practical Challenges](https://cryptopals.com/)**
+- **[Applied Cryptography (Schneier)](https://mrajacse.files.wordpress.com/2012/01/applied-cryptography-2nd-ed-b-schneier.pdf)**
 
-## Hardware
-- Hardware for software engineers 
-   * [electrical engineering intro](https://www.khanacademy.org/science/electrical-engineering) - Nice intro. Skip the math if it isn’t interesting
-   * [fpga embedded design](https://www.udemy.com/course/fpga-embedded-design-verilog/)
-   * [pcb basics](https://learn.sparkfun.com/tutorials/pcb-basics/all)
-   * [electronics-assembly](https://learn.sparkfun.com/tutorials/electronics-assembly)
-   * [how-to-read-a-schematic](https://learn.sparkfun.com/tutorials/how-to-read-a-schematic)
-   * [using-eagle-schematic](https://learn.sparkfun.com/tutorials/using-eagle-schematic)
-   * [using-eagle-board-layout](https://learn.sparkfun.com/tutorials/using-eagle-board-layout)
-   * [designing-pcbs-advanced-smd](https://learn.sparkfun.com/tutorials/designing-pcbs-advanced-smd)
-   * (https://www.sparkfun.com/news/2116)
-   * [Tutorial for Eagle scehmatics](https://www.jeremyblum.com/category/eagle-tutorials/) - Tutorial for Eagle scehmatics
-   * [pcb-tutorials-design-exercises](https://www.computeraideddesignguide.com/eagle-pcb-tutorials-design-exercises/) 
-- Digital signal processing and RF 
-   * [Full DSP course](https://www.coursera.org/learn/dsp)
-   * Read about GPS (Kaplan, ICD, …) [Download](https://sourceforge.net/projects/gnss-sdr/files/data/2013_04_04_GNSS_SIGNAL_at_CTTC_SPAIN.tar.gz)
+### 🐧 Linux Reverse Engineering
+- **[Nebula (Easy)](https://exploit-exercises.lains.space/nebula/)**
+- **[Protostar (Medium)](https://exploit-exercises.lains.space/protostar/)**
+- **[Fusion (Hard)](https://exploit-exercises.lains.space/fusion/)**
 
-## Books
+---
 
-- Linux Kernel developmant 
-   * [Linux Device Driver](https://bootlin.com/doc/books/ldd3.pdf)
-   * [Understanding LINUX NETWORK INTERNALS](https://doc.lagout.org/operating%20system%20/linux/Understanding%20Linux%20Network%20Internals.pdf)
-   * [Understanding linux kernel](https://doc.lagout.org/operating%20system%20/linux/Understanding%20Linux%20Kernel.pdf)
+## 🛠️ Hardware
+- **[Electrical Engineering Intro](https://www.khanacademy.org/science/electrical-engineering)** – Skip the math if it isn’t interesting
+- **[FPGA Embedded Design](https://www.udemy.com/course/fpga-embedded-design-verilog/)**
+
+---
+
+## 📚 Books
+- **[Linux Device Drivers](https://bootlin.com/doc/books/ldd3.pdf)**
+- **[Understanding Linux Kernel](https://doc.lagout.org/operating%20system%20/linux/Understanding%20Linux%20Kernel.pdf)**
+
+---
+
+## 🚀 Contribute
+Want to add a link? Open an issue or a pull request!  
+Check out our [contribution guide](CONTRIBUTING.md).
+
+📩 Follow for updates! [Telegram](https://t.me/TopCyberTechNews) | [Twitter](https://x.com/shayafeedman)
+
+---
+
+## 📜 License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
